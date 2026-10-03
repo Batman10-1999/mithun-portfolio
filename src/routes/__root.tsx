@@ -78,14 +78,21 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
-      { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
+      { title: "Mithun S — Interactive 3D Portfolio" },
+{
+  name: "description",
+  content:
+    "An interactive 3D portfolio exploring Mithun S's work across software, web development, data and AI.",
+},
+{ name: "author", content: "Mithun S" },
+{ property: "og:title", content: "Mithun S — Interactive 3D Portfolio" },
+{
+  property: "og:description",
+  content:
+    "Explore the interactive portfolio of Mithun S through a cinematic 3D experience.",
+},
+{ property: "og:type", content: "website" },
+{ name: "twitter:card", content: "summary_large_image" },
     ],
     links: [
       {
@@ -98,7 +105,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap",
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/image.png", type: "image/png" },
     ],
   }),
   shellComponent: RootShell,
