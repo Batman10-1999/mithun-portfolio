@@ -48,45 +48,7 @@ The result is less like a traditional portfolio and more like a **small interact
 
 ---
 
-## Visual Journey
 
-### 01 — The Beginning
-
-The experience starts in darkness and distant stars.
-
-Particles gradually form:
-
-**MITHUN S**
-
-Then the visitor enters the portfolio.
-
-![Portfolio Introduction](docs/images/01-intro-preview.png)
-
----
-
-### 02 — Earth
-
-Earth acts as the central navigation point.
-
-Instead of a conventional dashboard, the visitor discovers different parts of the portfolio through planetary destinations.
-
-![Earth Portfolio Gateway](docs/images/02-earth-preview.png)
-
----
-
-### 03 — Mars / Projects
-
-Mars represents the project universe.
-
-The current portfolio showcases:
-
-* **Smart Road Management System** — Civic Technology
-* **Sentinel AI** — AI / Public Safety
-* **Krishi-Samrudhi** — AI / Agriculture
-* **TrustLens AI** — AI / Media Verification
-* **CS Chat** — Networking / Communication
-
-![Mars Projects](docs/images/03-mars-projects-preview.png)
 
 > Visual previews above are concept illustrations for the repository README and are not presented as screenshots of the live application.
 
